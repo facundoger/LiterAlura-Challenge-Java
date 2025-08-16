@@ -21,7 +21,7 @@ Menú principal:
   1 - Buscar un libro por titulo
   2 - Listar libros registrados
   3 - Listar autores registrados
-  4 - Listar autores vivos en un determinado anio
+  4 - Listar autores vivos en un determinado año
   5 - Listar libros por idioma
   
   0 - Salir
