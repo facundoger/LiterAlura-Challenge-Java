@@ -3,13 +3,7 @@
 ## Índice
 1. [Descripción del Proyecto](#descripción-del-proyecto)  
 2. [Demostración de funciones y aplicaciones](#demostración-de-funciones-y-aplicaciones)  
-3. [Acceso al Proyecto](#acceso-al-proyecto)  
-4. [Tecnologías utilizadas](#tecnologías-utilizadas)  
-5. [Estructura de la base de datos y ejemplos](#estructura-de-la-base-de-datos-y-ejemplos)  
-6. [Ejecución local](#ejecución-local)  
-7. [Personas Desarrolladoras del Proyecto](#personas-desarrolladoras-del-proyecto)  
-8. [Licencia](#licencia)
-
+3. [Tecnologías utilizadas](#tecnologías-utilizadas)  
 ---
 
 ## Descripción del Proyecto
@@ -23,6 +17,7 @@ El proyecto ofrece una interfaz de consola con un menú de opciones para buscar 
 ## Demostración de funciones y aplicaciones
 
 Menú principal:
+
   1 - Buscar un libro por titulo
   2 - Listar libros registrados
   3 - Listar autores registrados
@@ -31,7 +26,9 @@ Menú principal:
   
   0 - Salir
 
-Tecnologías utilizadas
+---
+
+## Tecnologías utilizadas
 
   - Java 24
   - Spring Boot (starter web / data JPA)
@@ -40,3 +37,4 @@ Tecnologías utilizadas
   - Jackson (para deserialización JSON)
   - Maven (gestión de dependencias y build)
 
+---
