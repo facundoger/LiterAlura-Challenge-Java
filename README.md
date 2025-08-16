@@ -1,7 +1,5 @@
 # Literalura — Java Challenge
 
-![Banner](./literalura_banner.png)
-
 ## Índice
 1. [Descripción del Proyecto](#descripción-del-proyecto)  
 2. [Demostración de funciones y aplicaciones](#demostración-de-funciones-y-aplicaciones)  
